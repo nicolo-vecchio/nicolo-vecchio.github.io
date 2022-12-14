@@ -1,4 +1,4 @@
-# Title research
+# Modelling for Sustainable Societies: a sharing economy model - group assignment
 ---
 
 ## Input data
