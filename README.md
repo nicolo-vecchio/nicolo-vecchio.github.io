@@ -448,21 +448,6 @@ The researchers have reached out to the author of the paper, Adrien Querbes, who
     end
 
 
-Block code "fences"
-
-```
-Sample text here...
-```
-
-Syntax highlighting
-
-``` js
-var foo = function (bar) {
-  return bar++;
-};
-
-console.log(foo(5));
-```
 
 ## Tables
 
