@@ -5,6 +5,7 @@ The present webpage has been created in order to enable the reproduction of resu
 The four scenarios have been run on the following settings. It is important to notice how the only settings changing are 
 
 ### Scenario 1
+
 | Setting | Value |
 | ------ | ----------- |
 | number-steps | 2000 |
@@ -25,6 +26,7 @@ The four scenarios have been run on the following settings. It is important to n
 | past-reviews-range | 0.9 |
 
 ### Scenario 2
+
 | Setting | Value |
 | ------ | ----------- |
 | number-steps | 2000 |
@@ -45,6 +47,7 @@ The four scenarios have been run on the following settings. It is important to n
 | past-reviews-range | 0.9 |
 
 ### Scenario 3
+
 | Setting | Value |
 | ------ | ----------- |
 | number-steps | 2000 |
