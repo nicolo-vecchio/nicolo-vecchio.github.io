@@ -1,6 +1,6 @@
 # Modelling for Sustainable Societies: a sharing economy model - group assignment
+The present webpage has been created in order to enable the reproduction of results of the research paper. Information about input data, output data and the model code will be here presented.
 
-The present repository
 ---
 
 ## Input data
