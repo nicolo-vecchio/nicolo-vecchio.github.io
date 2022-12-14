@@ -2,6 +2,7 @@
 The present webpage has been created in order to enable the reproduction of results of the research paper. Information about input data, output data and the model code will be here presented.
 
 ## Input data
+The four scenarios have been run on the following settings.
 
 ### Scenario 1
 | Option | Description |
