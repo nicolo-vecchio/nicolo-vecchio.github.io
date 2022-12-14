@@ -2,7 +2,7 @@
 The present webpage has been created in order to enable the reproduction of results of the research paper. Information about input data, output data and the model code will be here presented.
 
 ## Input data
-The four scenarios have been run on the following settings. It is important to notice how the only settings changing are 'guest-preference' and 'price strategy'.
+The four scenarios have been run on the following settings. It is important to notice how the only changing settings are 'guest-preference' and 'price strategy'.
 
 ### Scenario 1
 
