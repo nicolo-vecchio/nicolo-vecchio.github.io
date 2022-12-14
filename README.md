@@ -5,11 +5,16 @@ The present webpage has been created in order to enable the reproduction of resu
 The four scenarios have been run on the following settings.
 
 ### Scenario 1
-| Option | Description |
+| number-steps | 2000 |
 | ------ | ----------- |
-| data   | path to data files to supply the data that will be passed into templates. |
-| engine | engine to be used for processing templates. Handlebars is the default. |
-| ext    | extension to be used for dest files. |
+| comput-quality | "abs" |
+| guest-preference | "quality-pref" |
+| get-data? | FALSE |
+| number-steps | 2000 |
+| ------ | ----------- |
+| comput-quality | "abs" |
+| guest-preference | "quality-pref" |
+| get-data? | FALSE |
 
 
 ### Scenario 2
