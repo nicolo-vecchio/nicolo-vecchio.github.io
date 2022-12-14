@@ -1,15 +1,10 @@
 # Modelling for Sustainable Societies: a sharing economy model - group assignment
 The present webpage has been created in order to enable the reproduction of results of the research paper. Information about input data, output data and the model code will be here presented.
 
----
-
 ## Input data
 data and code well documented
 
----
 ## Output data
-
----
 
 ## Model code
 
@@ -449,7 +444,7 @@ The researchers have reached out to the author of the paper, Adrien Querbes, who
 
     end
 
-
+--- 
 
 ## Tables
 
