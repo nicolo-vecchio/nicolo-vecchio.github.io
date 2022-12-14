@@ -88,6 +88,7 @@ The four scenarios have been run on the following settings. It is important to n
 | proba-action | 0.01 |
 | past-reviews-range | 0.9 |
 
+---
 ## Output data
 data well documented
 
