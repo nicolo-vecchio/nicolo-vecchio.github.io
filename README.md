@@ -94,7 +94,7 @@ data well documented
 
 ## Model code
 
-The researchers have reached out to the author of the paper, Adrien Querbes, who kindly shared the model appositely coded. The code is here reported in its original version, which has been used in the present study.
+The researchers have reached out to the author of the paper, Adrien Querbes, who kindly shared the appositely coded model. The code is here reported in its original version, which has been used in the present study.
 
     // Some comments
     ;Copyright (C) 2017 Adrien Querbes
