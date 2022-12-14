@@ -5,16 +5,24 @@ The present webpage has been created in order to enable the reproduction of resu
 The four scenarios have been run on the following settings.
 
 ### Scenario 1
-| number-steps | 2000 |
+| Setting | Value |
 | ------ | ----------- |
+| number-steps | 2000 |
 | comput-quality | "abs" |
 | guest-preference | "quality-pref" |
 | get-data? | FALSE |
-| number-steps | 2000 |
-| ------ | ----------- |
-| comput-quality | "abs" |
-| guest-preference | "quality-pref" |
-| get-data? | FALSE |
+| update-data-frequency | 50 |
+| tau-price | 0.1 |
+| population | 100 |
+| focus-occupancy | 0.5 |
+| new-adjust-price? | FALSE |
+| local-random-seed | 1 |
+| init-price-randomness | 0 |
+| price-range-search | 2 |
+| price-strategy | "occupancy-reviews" |
+| tau-reputation | 0.1 |
+| proba-action | 0.01 |
+| past-reviews-range | 0.9 |
 
 
 ### Scenario 2
