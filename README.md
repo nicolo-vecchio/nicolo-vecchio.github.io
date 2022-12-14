@@ -1,4 +1,6 @@
 # Modelling for Sustainable Societies: a sharing economy model - group assignment
+
+The present repository
 ---
 
 ## Input data
